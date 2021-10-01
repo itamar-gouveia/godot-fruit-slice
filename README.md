@@ -1,2 +1,2 @@
-# godot-fruit-slice
+# Fruit Slice
 Jogo estilo fruit ninja desenvolvido na godot
